@@ -1,1 +1,1 @@
-# devops-netologynew line
+Все файлы с расширением .gitignore
